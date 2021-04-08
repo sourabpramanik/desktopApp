@@ -1,0 +1,119 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: 0.4s ease-in-out;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: #161625;
+  border-radius: 10px;
+ 
+}
+
+.section-heading{
+  position: absolute;
+  width: 82px;
+  height: 16px;
+  left: 34px;
+  top: 16px;
+
+  font-family:  -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+  "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+  sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 17px;
+
+  color: #FFFFFF;
+}
+.card-1{
+  position: absolute;
+  width: 223px;
+  height: 87px;
+  left: 80px;
+  top: 54px;
+
+  background: #1E1E30;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 9px;
+}
+.card-2{
+  position: absolute;
+  width: 223px;
+  height: 87px;
+  left: 347px;
+  top: 54px;
+  margin-left: 30px;
+  margin-right: 30px;
+  background: #1E1E30;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 9px;
+}
+.card-3{
+  position: absolute;
+  width: 223px;
+  height: 87px;
+  left:640px;
+  top: 54px;
+  margin-left: 30px;
+  margin-right: 30px;
+  background: #1E1E30;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 9px;
+}
+.card-4{
+  position: absolute;
+  width: 223px;
+  height: 87px;
+  left: 927px;
+  top: 54px;
+  margin-left: 30px;
+  margin-right: 30px;
+  background: #1E1E30;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 9px;
+}
+.card-content{
+  position: absolute;
+  margin: 10px;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.graph-box{
+  position: absolute;
+  width: 857px;
+  height: 399px;
+  left: 89px;
+  top: 162px;
+
+  background: #1E1E30;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 9px;
+}
+.record-box{
+  position: absolute;
+  width: 857px;
+  height: 329px;
+  left: 89px;
+  top: 589px;
+  color: #ffffff;
+  background: #1E1E30;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 9px;
+  
+}
+.barGraph-box{
+  position: absolute;
+  width: 377px;
+  height: 488px;
+  left: 959px;
+  top: 162px;
+  
+  background: #1E1E30;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 9px;
+}
